@@ -1,0 +1,16 @@
+stellaris custom reminders mod features:
+custom date reminders
+- create a reminder on a certain date
+- create a reminder on a certain date on a certain system/planet/species/fleet/sector
+- auto-create a reminder on game exit with a summary of what happened in-game since the last time you launched it 
+
+reminder:
+- date created: in-game date the reminder was created
+- reminder date: the date the reminder should occur
+- optional target: system/planet/species/fleet/sector
+- repeat?: checkbox to enable repeatability
+- repeat frequency: set when, how long, how many times, etc. the reminder should repeat themselves
+--text box to enter integer value
+-- dropdown box to enter time period for integer value
+-- basically follows Outlook's event repeating UX and functionality
+
