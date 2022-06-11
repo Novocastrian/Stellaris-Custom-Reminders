@@ -1,0 +1,4 @@
+﻿l_english:
+  custom_reminders_civic: "Semper Exploro"
+  custom_reminders_civic_desc: "This society prioritised scientific exploration over military expansion in the early space age."
+  custom_reminders_civic_effects: "Start with a $science$ and assigned $scientist$ instead of $OUTLINER_FLEETS$."
